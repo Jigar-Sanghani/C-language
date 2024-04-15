@@ -44,5 +44,4 @@ void main()
 	}
 	
 	arrayreverse(a,n);
-	yreverse(a,n);
 }
