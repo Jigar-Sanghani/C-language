@@ -92,6 +92,5 @@ void main()
 				P("\nInvalid Choice !!");
 		}
 	}while(choice!=0);
-	e!=0);
 }
 
